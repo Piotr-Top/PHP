@@ -2,7 +2,6 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Лабораторная работа №1: Введение в PHP</title>
 </head>
 <body>
 
